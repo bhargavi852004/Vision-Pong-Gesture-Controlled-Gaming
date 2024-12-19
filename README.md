@@ -1,4 +1,4 @@
-# Gesture-Controlled Pong Game
+# Vision Pong: Gesture-Controlled Gaming 
 
 This repository contains a Gesture-Based Pong Game developed using Python, Pygame, and MediaPipe. The game allows players to control the paddle in a Pong-like game using hand movements detected by a webcam, providing an immersive hands-free gaming experience.
 
